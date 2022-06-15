@@ -23,9 +23,5 @@ And some small projects I made open-source on my own, please have a look below.
 
 🔭 I'm currently looking for a job.
 
-🌱 I've been learning web3 both in Javascript and Python as well as Haskell.
-Haskell is mainly to expand my horizons and my initial interest was to work on Cardano.
-I'm looking forward to open-sourcing more code, using Go and Elixir.
-
 📫 Please reach me by [linkedin](https://www.linkedin.com/in/combetto/)
 
