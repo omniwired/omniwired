@@ -1,4 +1,4 @@
-### Hi ,there 👋
+### Aloha 👋
 
 <!--
 **omniwired/omniwired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome, in my professional life, most of the software I've created is closed source. More details on [linkedin](https://www.linkedin.com/in/combetto/).
+🔭 I’m currently working on finding new clients and opportunities.
 
-Yet there are some open-source projects I've contributed to.
+👯 I’m looking to collaborate on building products!
 
-And some small projects I made open-source on my own, please have a look below.
-
-🔭 I'm currently looking for a job.
+🔭 Please checkout my [website](https://omniwired.com) and [portfolio](https://omniwired.com/portfolio)
 
 📫 Please reach me by [linkedin](https://www.linkedin.com/in/combetto/)
 
