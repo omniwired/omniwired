@@ -1,5 +1,10 @@
 ### Aloha 👋
 
+Now           |  Bulding
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/322761/188560369-4e610373-69be-4d42-ad2a-0ec06e95b5ba.png) | ![image](https://user-images.githubusercontent.com/322761/188560519-5ff86d0f-e0fb-4ba2-8ec3-7eefe2027c14.png)
+
+Photo by: [Stable difussion AI](https://github.com/lstein/stable-diffusion)
 <!--
 **omniwired/omniwired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
