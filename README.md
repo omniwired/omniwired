@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/322761/189049342-ecf3c6ce-6185-48ee-aaaa-14f18e847e7c.png)
-![image](https://user-images.githubusercontent.com/322761/189052196-bdb02f29-4ea5-459a-a6a6-a7805fbd22fb.png)
-
-
-Photo by: [Stable difussion AI](https://github.com/lstein/stable-diffusion)
 <!--
 **omniwired/omniwired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
