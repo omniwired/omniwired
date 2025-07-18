@@ -69,7 +69,7 @@
   the future of decentralized finance.
 
   [![Website](https://img.shields.io/badge/Website-omniwired.com-blue?style=flat-square&logo=google-chrome)](https://omniwired.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/omniwired)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/combetto)
   [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-green?style=flat-square&logo=github)](https://omniwired.com/portfolio)
 
   ---
