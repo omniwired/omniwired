@@ -1,83 +1,141 @@
-# 👋 Multi-Chain Blockchain Developer
+# Blockchain Infrastructure Engineer & Technical Leader
 
-  > From building infrastructure for **Avatar** and **Deadpool** at 20th Century Fox to developing **zkSNARK privacy
-  solutions** on Ethereum, I've spent my career architecting systems that scale. Now focused on **multi-chain
-  blockchain development** - building the infrastructure that powers DeFi across ecosystems.
+Technical leader specializing in Solana HFT systems, MEV infrastructure, and privacy-preserving protocols. Led teams at Disney/Fox and blockchain startups, managing engineering teams while shipping production systems serving millions. Expert in trading bots, JITO bundles, and AI-enhanced blockchain infrastructure. Open to CTO, VP Engineering, and senior technical leadership roles.
 
-  ## 🚀 What I Build
+## Current Focus
 
-  **🔗 Multi-Chain DeFi Infrastructure**
-  - Cross-chain bridges and liquidity protocols
-  - RPC optimization and API development
-  - DEX interfaces and yield farming tools
+**Solana HFT & MEV Infrastructure**
+- JITO bundle integration for priority transaction execution and MEV capture
+- High-frequency trading systems with sub-100ms latency requirements
+- Custom market maker bots and DEX arbitrage engines (CEX/DEX arbitrage)
+- Automated liquidation bots and yield optimization strategies
+- Transaction ordering optimization and bundle construction
 
-  **🔒 Privacy-Preserving Solutions**
-  - zkSNARK exploration for private transactions
-  - Learning zero-knowledge proof circuits with Circom
-  - Cryptographic protocols for anonymous voting
+**Trading Bot Development**
+- Market maker bots with inventory management and risk controls
+- Cross-DEX arbitrage detection and execution (Raydium, Orca, Meteora)
+- DCA (Dollar Cost Averaging) bots with customizable strategies
+- Sniper bots for new token launches with anti-rug mechanisms
+- Real-time mempool monitoring and transaction simulation
 
-  **⚡ Production Applications**
-  - Full-stack dApps with real user adoption
-  - Enterprise-grade systems with reliability focus
-  - Real-time data processing and indexing
+**Zero-Knowledge Proof Systems**
+- zkSNARK circuit development with Circom for privacy-preserving applications
+- Anonymous voting protocols using zero-knowledge cryptography
+- Private transaction systems on Ethereum and Solana
+- Exploring zkEVM implementations and Layer 2 privacy solutions
 
-  ## 🛠 Technical Expertise
+**AI & Machine Learning**
+- IEEE published research on multi-layer perceptrons for biometric authentication
+- MCP (Model Context Protocol) implementations for blockchain integration
+- AI-enhanced trading signal generation and pattern recognition
+- Machine learning for transaction analysis and fraud detection
 
-  ### **Blockchain Ecosystems**
-  - **Ethereum**: Web3.js integration, ERC standards, Layer 2 solutions
-  - **Solana**: Web3.js, program interaction, high-throughput dApps
-  - **Cosmos**: SDK integration, IBC basics, CosmWasm exploration
+**DeFi Protocol Infrastructure**
+- Production-grade smart contract integration for high-value protocols
+- Privacy-preserving transfer protocols (HoudiniSwap, Privacy Cash)
+- Secure wallet management systems with IPC-based key isolation
+- Enterprise-grade reliability: 24/7 uptime, comprehensive monitoring and alerting
 
-  ### **Languages & Frameworks**
-  TypeScript • JavaScript • Python • Golang • Rust (learning)
-  Solidity (intermediate) • Web3.js • Ethers.js • Node.js • React
-  PostgreSQL • Docker • Git
+## Technical Stack
 
-  ### **DeFi & Infrastructure**
-  - DEX development and AMM interfaces
-  - Bridge implementations and cross-chain tools
-  - Wallet integrations and user experience
-  - Node operations and RPC endpoints
+**Blockchain & DeFi**
+- Solana HFT: JITO bundles, priority fees, MEV strategies, transaction simulation
+- Trading bots: Market makers, arbitrage, snipers, liquidation, DCA strategies
+- Zero-knowledge proofs: Circom, zkSNARK circuits, cryptographic protocols
+- Solana: Web3.js, SPL tokens, program interaction, RPC optimization
+- Smart contracts: Solidity, Rust, protocol integration, security auditing
+- Privacy protocols: HoudiniSwap, relay architectures, transaction obfuscation
+- Wallet security: BIP44/SLIP-0010 derivation, Ed25519 signing, HSM-ready architectures
 
-  ## 📊 GitHub Stats
-  *Note: Stats reflect public repositories only*
+**Languages & Frameworks**
+- TypeScript • JavaScript • Python • Golang • Rust (learning) • Solidity
+- Bun • Deno • Node.js • React • Vite • NestJS
+- Web3.js • Ethers.js • Anchor • TypeORM • Hono
+- AI/ML: Multi-layer perceptrons, MCP implementations, TensorFlow/PyTorch basics
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omniwired&show_icons=true&theme=dark&count_private=true)
+**Infrastructure & DevOps**
+- PostgreSQL with advanced locking strategies
+- Docker containerization and orchestration
+- Unix domain sockets for secure IPC
+- GitHub Actions CI/CD
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omniwired&layout=compact&theme=dark)
+## Leadership Experience
 
-  ## 🔥 Recent Projects
+**Teritori Network** - Senior Lead Software Engineer / Core Team (Dec 2022 - Jul 2024)
+- Managed team of 8 developers while shipping the first on-chain social network in Cosmos
+- Led technical roadmap and architecture decisions for comprehensive dApp ecosystem
+- Developed internal trading tools: custom market maker bot and DCA tool for CEX/DEX arbitrage
+- Maintained IBC channels and relationships with 50+ validators across Cosmos ecosystem
 
-  - **🔐 Private DAO Voting** - Learning zkSNARK circuits for anonymous governance
-  - **🌉 Cross-Chain Tools** - Bridge interfaces and multi-chain utilities
-  - **📈 DeFi Interfaces** - Trading tools and yield optimization dashboards
-  - **⚡ Infrastructure Tools** - RPC utilities and blockchain indexing
+**20th Century Fox** - Technical Lead, Senior Web Developer (Jul 2014 - Mar 2019)
+- Reported directly to executive director and SVP of marketing
+- Led technical direction for multi-million dollar projects across 36 countries
+- Automated 90% of complex workflows, reducing staffing requirements significantly
+- Drove adoption of code quality metrics and mentored engineering teams
 
-  ## 🎯 What I Bring
+**Disney (post-Fox acquisition)** - Senior Software Engineer (Mar 2019 - Dec 2020)
+- Delivered 43% API performance gains impacting all Disney consumer properties
+- Led seamless migration of Fox properties into Disney systems in 6 months
+- Presented optimization improvements to multi-department leadership
 
-  **🌐 Multi-Chain Approach** - Building across ecosystems where innovation happens
+## Featured Work
 
-  **📈 Production Focus** - Shipping working applications that users actually use
+**Solana HFT & Trading Bot Infrastructure**
+- JITO bundle integration for MEV capture and priority execution
+- Custom market maker bots with sub-second execution latency
+- Cross-DEX arbitrage engine monitoring Raydium, Orca, Meteora, Jupiter
+- Real-time mempool analysis and transaction simulation for optimal routing
+- Automated DCA and yield optimization strategies across multiple protocols
 
-  **🔧 Full-Stack Skills** - From smart contract integration to React frontends
+**Privacy-First Wallet Management System**
+- Automated funding of 200+ wallets daily with complete pattern randomization
+- Deterministic operation scheduling with timezone-aware distribution
+- Single-use relay wallets for transaction path obfuscation
+- All transfers routed through privacy-enabled DEX aggregators (HoudiniSwap)
 
-  **🏢 Professional Experience** - Background at Disney/Fox - understand shipping reliable systems at scale
+**Zero-Knowledge Privacy Protocol**
+- zkSNARK circuits for anonymous DAO governance and voting (Circom)
+- Privacy-preserving transaction verification without revealing sensitive data
+- Circuit optimization for gas-efficient on-chain verification
+- Cryptographic protocol design for scalable private state transitions
 
-  ## 💬 Let's Connect
+**AI Research: Biometric Authentication (IEEE Published)**
+- Multi-layer perceptron neural networks for handwritten signature validation
+- Published research paper: "A secure signature validation architecture prototype"
+- Won two prizes at Universidad de Palermo for innovation in AI security
+- MCP (Model Context Protocol) implementations for blockchain-AI integration
 
-  Whether you're building on **Ethereum**, **Solana**, or exploring **cross-chain solutions** - let's collaborate on
-  the future of decentralized finance.
+## GitHub Stats
 
-  [![Website](https://img.shields.io/badge/Website-omniwired.com-blue?style=flat-square&logo=google-chrome)](https://omniwired.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/combetto)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-green?style=flat-square&logo=github)](https://omniwired.com/portfolio)
+*Note: Most current work is in private repositories*
 
-  ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omniwired&show_icons=true&theme=dark&count_private=true)
 
-  **💡 Open to:**
-  - Product collaboration on DeFi protocols
-  - Technical consulting on multi-chain architecture
-  - Open source contributions to Web3 infrastructure
-  - Building tools that make blockchain more accessible
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omniwired&layout=compact&theme=dark)
 
-  *Building practical infrastructure for tomorrow's decentralized economy* 🚀
+## What I Bring to Leadership Roles
+
+**Proven Technical Leadership** - Led engineering teams at Teritori (8 developers), Fox (technical lead reporting to SVP), and Disney (senior engineer driving architecture decisions). Experience with hiring, mentoring, code review standards, and establishing engineering culture. Comfortable presenting to C-level executives and making strategic technical decisions.
+
+**Reliability at Scale** - Built production systems serving millions at Disney/Fox. Delivered 43% API performance improvements and automated 90% of complex workflows. Deep understanding of monitoring, incident response, SLAs, and designing for failure. Know what it takes to maintain 99.9%+ uptime for systems handling real value.
+
+**HFT & MEV Expertise** - Hands-on experience building trading bots, JITO bundle integration, and MEV infrastructure on Solana. Deep understanding of transaction ordering, priority fees, mempool analysis, and latency optimization. Built market maker bots and arbitrage systems with real capital at risk.
+
+**Security-First Architecture** - Published AI research, implemented zkSNARK privacy protocols, designed HSM-ready key management systems. Understanding of cryptographic primitives, attack vectors, and the security considerations unique to protocols managing significant TVL.
+
+**Full-Stack & AI Integration** - From zero-knowledge circuits and ML models to high-performance databases to React dashboards. Can architect complete systems end-to-end while integrating AI/ML for enhanced decision-making.
+
+## Open To
+
+- **CTO / VP of Engineering** roles at DeFi protocols, HFT firms, or blockchain startups
+- **Head of Infrastructure** or **Principal Engineer** positions requiring technical leadership
+- **Protocol Engineer / Smart Contract Developer** roles at top-tier DeFi protocols
+- **MEV/HFT Engineer** positions building trading infrastructure on Solana
+- **Zero-Knowledge Engineer** roles focused on zkSNARK/zkEVM development
+- Technical advisory or consulting for high-value blockchain applications
+
+[![Portfolio & Contact](https://img.shields.io/badge/Portfolio-omniwired.com-blue?style=flat-square&logo=google-chrome)](https://omniwired.com)
+
+---
+
+*Focused on building secure, high-performance infrastructure for Solana DeFi*
